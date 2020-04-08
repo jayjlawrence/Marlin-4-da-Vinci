@@ -1,4 +1,4 @@
-# To be configured to work well with da Vinci printers. See the [Wiki](wiki) for now
+# To be configured to work well with da Vinci printers. See the [Wiki](../../wiki) for now
 
 # Marlin 3D Printer Firmware
 
